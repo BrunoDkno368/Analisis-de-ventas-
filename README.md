@@ -1,6 +1,6 @@
-# 📊 Análisis de Ventas – README
+# 📊 Análisis de Ventas 
 
-Este documento resume el proyecto de análisis de ventas realizado en Google Colab, incluyendo objetivos, metodología (ETL + EDA), hallazgos clave y conclusiones accionables. Funciona como README para presentar en GitHub o portfolio.
+Este documento resume el proyecto de análisis de ventas realizado en Google Colab, incluyendo objetivos, metodología (ETL + EDA), hallazgos clave y conclusiones accionables.
 
 ---
 
